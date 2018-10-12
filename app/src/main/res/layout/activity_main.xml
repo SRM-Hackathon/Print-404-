@@ -10,27 +10,8 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Login"
-        tools:layout_editor_absoluteX="130dp"
-        tools:layout_editor_absoluteY="261dp" />
+        android:text="Proceed"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="221dp" />
 
-    <EditText
-        android:id="@+id/pass"
-        android:layout_width="wrap_content"
-        android:layout_height="47dp"
-        android:ems="10"
-        android:inputType="textPassword"
-        android:text="Password"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="168dp" />
-
-    <EditText
-        android:id="@+id/editText1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Username"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="82dp" />
 </android.support.constraint.ConstraintLayout>
